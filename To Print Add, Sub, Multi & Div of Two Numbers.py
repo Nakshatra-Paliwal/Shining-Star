@@ -1,0 +1,7 @@
+num1 = float(input("Enter the 1st Number : "))
+num2 = float(input("Enter the 2nd Number : "))
+Add = (num1 + num2)
+Subtract = (num1 - num2)
+Multiply = (num1 * num2)
+Divide = (num1 / num2)
+print(str(Add ) + str(Subtract ) + str(Multiply ) + str(Divide ))
